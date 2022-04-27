@@ -4,6 +4,10 @@
 #define SHA1_HEX_SIZE (40 + 1)
 #define SHA1_BASE64_SIZE (28 + 1)
 
+//https://github.com/983/SHA1
+//Public domain C++ SHA1 implementation
+//JakubSkowron committed on 22 May 2019 
+//commit 718f1627f00c1bab2967c7296d6503f987e36849
 class sha1 {
 private:
 
