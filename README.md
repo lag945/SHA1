@@ -1,5 +1,7 @@
 # SHA1
 
+[Validated by online checker](https://emn178.github.io/online-tools/sha1.html)
+
 ```cpp
 void example(){
     const char *text = "quick brown fox jumps over the lazy dog";
